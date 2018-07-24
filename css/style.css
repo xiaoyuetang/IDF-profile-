@@ -1,0 +1,33 @@
+.tm {
+    transform: rotate(-90deg);
+}
+h1.big {
+    vertical-align: -webkit-baseline-middle;
+    /* padding: 30px, 30px;
+    margin: 30px, 30px; */
+    margin-top: 300px;
+    margin-bottom: 300px;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+}
+div.marginfix {
+    margin-top: 100px;
+}
+
+.bgp {
+    background-image: url("/Users/keelia/Desktop/Front-End Templates/IDF profile /image/id3.jpg");
+    background-position: center center;
+    background-size: cover;
+}
+
+hr {
+    border: orangered;
+    border-width: 5px;
+    border-style: inset;
+    margin: 5px 40px;
+ }
+
+ p {
+    margin: 30px 40px;
+}
