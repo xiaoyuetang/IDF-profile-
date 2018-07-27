@@ -7,8 +7,8 @@ h1.big {
     margin: 30px, 30px; */
     margin-top: 300px;
     margin-bottom: 300px;
-    margin-left: 100px;
-    margin-right: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
     text-align: center;
 }
 div.marginfix {
@@ -16,7 +16,7 @@ div.marginfix {
 }
 
 .bgp {
-    background-image: url("/Users/keelia/Desktop/Front-End_Templates/IDF_profile/image/id3.jpg");
+    background-image: url("../image/id3.jpg");
     background-position: center center;
     background-size: cover;
 }
@@ -30,4 +30,16 @@ hr {
 
  p {
     margin: 30px 40px;
+}
+
+.fa-style {
+    margin-bottom: 20px;
+    color: orange;
+}
+
+.full-width { 
+    padding-left: 0; 
+    padding-right: 0; 
+    margin-left: 0;
+    margin-right: 0;
 }
